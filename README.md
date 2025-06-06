@@ -1,1 +1,2 @@
-# Brainboost-arcade
+# BrainBoost Arcade
+Educational games website.
